@@ -6,6 +6,7 @@
     <name> -- <role> -- <twitter>
 
 # THANKS for helping in mastering
+# THANKS for helping in mastering in git
 
     <name>
 
